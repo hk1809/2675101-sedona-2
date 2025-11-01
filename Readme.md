@@ -2,6 +2,7 @@
 
 * Студент: [Хасият Кумекова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2675101).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект Седона](https://hk1809.github.io/2675101-sedona-2/).
 
 ---
 
